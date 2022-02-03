@@ -80,10 +80,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':  'BLS',
-        'USER' : 'root',
-        'PASSWORD' : '9491637257',
-        'HOST' : 'localhost',
-        'PORT' : '3306',
+        'USER' : 'vishal',
+        'PASSWORD' : 'Vis@76800',
+        'HOST' : 'bookalending.database.windows.net',
+        'PORT' : '',
     }
 }
 
